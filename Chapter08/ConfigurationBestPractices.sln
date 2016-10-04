@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConfiguration", "http://localhost/Apress/WebConfiguration/WebConfiguration.csproj", "{F07AE843-15C4-4329-941A-067E649B0857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebNameValueFileSectionHandler", "NameValueFileSectionHandler\WebNameValueFileSectionHandler.csproj", "{CC01927D-4FE2-4B57-BBEB-037F6AC026C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncyptedConfigurationSectionHandler", "EncyptedConfigurationSectionHandler\EncyptedConfigurationSectionHandler.csproj", "{896C5727-2EEE-468F-B838-563B7CC3CEC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F07AE843-15C4-4329-941A-067E649B0857}.Debug.ActiveCfg = Debug|.NET
+		{F07AE843-15C4-4329-941A-067E649B0857}.Debug.Build.0 = Debug|.NET
+		{F07AE843-15C4-4329-941A-067E649B0857}.Release.ActiveCfg = Release|.NET
+		{F07AE843-15C4-4329-941A-067E649B0857}.Release.Build.0 = Release|.NET
+		{CC01927D-4FE2-4B57-BBEB-037F6AC026C1}.Debug.ActiveCfg = Debug|.NET
+		{CC01927D-4FE2-4B57-BBEB-037F6AC026C1}.Debug.Build.0 = Debug|.NET
+		{CC01927D-4FE2-4B57-BBEB-037F6AC026C1}.Release.ActiveCfg = Release|.NET
+		{CC01927D-4FE2-4B57-BBEB-037F6AC026C1}.Release.Build.0 = Release|.NET
+		{896C5727-2EEE-468F-B838-563B7CC3CEC9}.Debug.ActiveCfg = Debug|.NET
+		{896C5727-2EEE-468F-B838-563B7CC3CEC9}.Debug.Build.0 = Debug|.NET
+		{896C5727-2EEE-468F-B838-563B7CC3CEC9}.Release.ActiveCfg = Release|.NET
+		{896C5727-2EEE-468F-B838-563B7CC3CEC9}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
